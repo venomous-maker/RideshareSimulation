@@ -98,3 +98,6 @@ The `src` directory contains the primary code files, along with the `thirdparty/
 ## Rubric Points
 
 The Capstone submission through Udacity required pointing out specific rubric items addressed (at least five) and where they were addressed at in the code, see [RUBRIC.md](RUBRIC.md) for details.
+
+## To Do ext
+Intergrate with live systems with ai intergration
